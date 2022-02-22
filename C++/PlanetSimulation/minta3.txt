@@ -1,0 +1,6 @@
+4
+Falank p 3
+Sudar d 1
+Kopcos b 4
+Nyulank d 7
+4
